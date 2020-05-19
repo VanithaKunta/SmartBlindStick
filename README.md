@@ -1,5 +1,5 @@
 # SmartBlindStick
-Smart Blind Stick for Visually Impaired People
+### Smart Blind Stick for Visually Impaired People
 
 One of the biggest problems faced by the visually impaired is navigating from place to place, be it indoors or outdoors. Further, the adverse conditions of the roads make it even more difficult for them to walk outdoors. They have to be alert at all times to avoid consequences like colliding with stable or moving obstacles, ascending or descending staircases, slipping down wet terrain. Also, at times they may be in distress and might want to send an alert message to their relatives or friends about their whereabouts. 
 
